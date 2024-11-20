@@ -39,9 +39,10 @@ nav ul li a{
     padding: 10px 20px;
     text-decoration: none;
     color: rgb(253, 253, 253);
-    letter-spacing: 500px 500px;
+    letter-spacing: 500px 500px 500px 500px;
     width: 50%;
     display: inline-block;
+    border-radius: 10px;
 }
 nav ul li a:hover{
     background-color: royalblue;
