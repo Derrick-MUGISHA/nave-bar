@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0; 
+}
+nav{
+    background: black;
+    padding: 1rem;
+}
+nav ul li{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+nav ul li{
+    display: inline;
+}
+nav {
+    display: flex;
+}
+nav ul li a{
+    /*color: white;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    display: block;*/
+    padding: 10px 20px;
+    text-decoration: none;
+    color: rgb(253, 253, 253);
+    letter-spacing: 10px 20px;
+    width: 100%;
+}
+nav ul li a:hover{
+    background-color: royalblue;
+    border-radius: 5px;
+}
